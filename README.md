@@ -13,73 +13,73 @@ If no dots is remining to draw a square the game will end
 Here are the sample input and outputs.
 
 Enter R and C
-3 3
+3 3<br />
 
-1   2   3
+1   2   3<br />
 
-4   5   6
+4   5   6<br />
 
-7   8   9
+7   8   9<br />
 
-Enter input for P1 : 
-1 2
+Enter input for P1 : <br />
+1 2<br />
 
-1 - 2   3
+1 - 2   3<br />
 
-4   5   6
+4   5   6<br />
 
-7   8   9
-
-Enter input for P2 : 
-2 5
-
-1 - 2   3
-    |
-4   5   6
-
-7   8   9
-
-Enter input for P1 : 
-4 5
-
-1 - 2   3
-    |
-4 - 5   6
-
-7   8   9
+7   8   9<br />
 
 Enter input for P2 : 
-1 4
+2 5<br />
 
-1 - 2   3
+1 - 2   3<br />
+    |
+4   5   6<br />
+
+7   8   9<br />
+
+Enter input for P1 : 
+4 5<br />
+
+1 - 2   3<br />
+    |
+4 - 5   6<br />
+
+7   8   9<br />
+
+Enter input for P2 : 
+1 4<br />
+
+1 - 2   3<br />
 | p2|
-4 - 5   6
+4 - 5   6<br />
 
-7   8   9
+7   8   9<br />
 
-....etc
+....etc<br />
 
-Enter input for P2 : 
-1 5
+Enter input for P2 :
+1 5<br />
 
-1 - 2 - 3
+1 - 2 - 3<br />
 | p2| p2|
-4 - 5 - 6
+4 - 5 - 6<br />
 | p1| p2|
-7 - 8 - 9
+7 - 8 - 9<br />
 
-Player 2 Score : 3
-Player 1 Score : 1
+Player 2 Score : 3<br />
+Player 1 Score : 1<br />
 
-// If both player are getting equal score show Game tied
+// If both player are getting equal score show Game tied<br />
 
-Enter input for P2 : 
-1 5
+Enter input for P2 :
+1 5<br />
 
-1 - 2 - 3
+1 - 2 - 3<br />
 | p2| p2|
-4 - 5 - 6
+4 - 5 - 6<br />
 | p1| p1|
-7 - 8 - 9
+7 - 8 - 9<br />
 
-Game tied
+Game tied<br />
