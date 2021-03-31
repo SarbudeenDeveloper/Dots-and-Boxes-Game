@@ -66,3 +66,14 @@ Player 2 Score : 3
 Player 1 Score : 1
 
 // If both player are getting equal score show Game tied
+
+Enter input for P2 : 
+1 5
+
+1 - 2 - 3
+| p2| p2|
+4 - 5 - 6
+| p1| p1|
+7 - 8 - 9
+
+Game tied
