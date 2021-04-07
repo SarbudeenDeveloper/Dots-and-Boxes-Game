@@ -47,11 +47,15 @@ public class Main {
     }
 
     static boolean getPlayer1Input(int[][] board, int rLen, int cLen, boolean isUser) {
+        Scanner s2 = new Scanner(System.in);
         String player = (isUser == true) ? "P1:":"P2:";
         System.out.println("Enter Input for Player " + player);
+        String line;
         int r, c;
-        r = s.nextInt();
-        c = s.nextInt();
+        line = s2.nextLine();
+        String[] lineArr = line.split(" ");
+        r = Integer.parseInt(lineArr[0]);
+        c = Integer.parseInt(lineArr[2]);
 
         if (r + 1 == c) {
             for (int i = 0; i < board.length; i++) {
