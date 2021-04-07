@@ -22,7 +22,7 @@ Enter R and C<br />
 7   8   9<br />
 
 Enter input for P1 : <br />
-1 2<br />
+1 to 2<br />
 <br />
 1 - 2   3<br />
 <br />
@@ -31,7 +31,7 @@ Enter input for P1 : <br />
 7   8   9<br />
 <br />
 Enter input for P2 : <br />
-2 5<br />
+2 to 5<br />
 <br />
 1 - 2   3<br />
     |       <br />
@@ -40,7 +40,7 @@ Enter input for P2 : <br />
 7   8   9<br />
 
 Enter input for P1 : <br />
-4 5<br />
+4 to 5<br />
 <br />
 1 - 2   3<br />
     |       <br />
@@ -49,7 +49,7 @@ Enter input for P1 : <br />
 7   8   9<br />
 <br />
 Enter input for P2 : <br />
-1 4<br />
+1 to 4<br />
 <br />
 1 - 2   3<br />
 | p2|       <br />
@@ -60,7 +60,7 @@ Enter input for P2 : <br />
 ....etc<br />
 
 Enter input for P2 :<br />
-1 5<br />
+1 to 5<br />
 <br />
 1 - 2 - 3<br />
 | p2| p2|   <br />
@@ -74,7 +74,7 @@ Player 1 Score : 1<br />
 // If both player are getting equal score show Game tied<br />
 <br />
 Enter input for P2 :<br />
-1 5<br />
+1 to 5<br />
 <br />
 1 - 2 - 3<br />
 | p2| p2|   <br />
